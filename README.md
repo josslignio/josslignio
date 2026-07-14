@@ -2,7 +2,7 @@
 
 # Jocelyn Grosjean
 
-### Growth operator building AI-powered GTM, intelligence and delivery systems
+### Creator of JOSS · Growth operator building AI-powered GTM, intelligence and delivery systems
 
 [LinkedIn](https://www.linkedin.com/in/jocelyn-grosjean/) ·
 [P1 Studio](https://www.p1studio.xyz/) ·
@@ -15,6 +15,20 @@ I combine 10+ years in growth, business development and ecosystem building with 
 Previously, I helped scale **Zealy** to **2M+ monthly active users** and adoption by **5,000+ companies**. Through **P1 Studio**, I supported **60+ Web3, fintech and digital clients** across growth, partnerships, acquisition and go-to-market execution.
 
 Today I build reliable AI systems that turn complex operating workflows into measurable products.
+
+## Creator of JOSS
+
+I created **JOSS**, a multi-project AI delivery engine designed to make AI-assisted product development faster, more autonomous and more reliable.
+
+JOSS keeps agents aligned with the global roadmap through persistent project state, immutable validation gates, bounded self-correction, anti-loop controls, resumability, evidence-first execution and low-context model routing.
+
+Its first production use cases include:
+
+- an automated daily Trading Intelligence Radar;
+- a daily Job Opportunity and tailored CV workflow;
+- reusable orchestration for future AI, growth and GTM products.
+
+The production implementation remains private. Its architecture, operating principles and sanitized examples are documented in the public [JOSS showcase repository](https://github.com/josslignio/joss-ai-delivery-engine-showcase).
 
 ## Selected systems
 
