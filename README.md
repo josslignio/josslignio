@@ -2,7 +2,7 @@
 
 # Jocelyn Grosjean
 
-### Creator of JOSS · Growth operator building AI-powered GTM, intelligence and delivery systems
+### Creator of JOÃO.AI · Growth operator building AI-powered GTM, intelligence and delivery systems
 
 [LinkedIn](https://www.linkedin.com/in/jocelyn-grosjean/) ·
 [P1 Studio](https://www.p1studio.xyz/) ·
@@ -16,11 +16,11 @@ Previously, I helped scale **Zealy** to **2M+ monthly active users** and adoptio
 
 Today I build reliable AI systems that turn complex operating workflows into measurable products.
 
-## Creator of JOSS
+## Creator of JOÃO.AI
 
-I created **JOSS**, a multi-project AI delivery engine designed to make AI-assisted product development faster, more autonomous and more reliable.
+I created **JOÃO.AI**, a multi-project AI delivery engine designed to make AI-assisted product development faster, more autonomous and more reliable.
 
-JOSS keeps agents aligned with the global roadmap through persistent project state, immutable validation gates, bounded self-correction, anti-loop controls, resumability, evidence-first execution and low-context model routing.
+JOÃO.AI keeps agents aligned with the global roadmap through persistent project state, immutable validation gates, bounded self-correction, anti-loop controls, resumability, evidence-first execution and low-context model routing.
 
 Its first production use cases include:
 
@@ -28,13 +28,13 @@ Its first production use cases include:
 - a daily Job Opportunity and tailored CV workflow;
 - reusable orchestration for future AI, growth and GTM products.
 
-The production implementation remains private. Its architecture, operating principles and sanitized examples are documented in the public [JOSS showcase repository](https://github.com/josslignio/joss-ai-delivery-engine-showcase).
+The production implementation remains private. Its architecture, operating principles and sanitized examples are documented in the public [JOÃO.AI showcase repository](https://github.com/josslignio/joss-ai-delivery-engine-showcase).
 
 ## Selected systems
 
 | Project | What it does | Status |
 |---|---|---|
-| [JOSS — AI Delivery Engine](https://github.com/josslignio/joss-ai-delivery-engine-showcase) | Keeps multi-project AI work aligned with persistent state, gates, budgets, resumability, anti-loop controls and evidence-based acceptance. | Private production build · public architecture |
+| [JOÃO.AI — AI Delivery Engine](https://github.com/josslignio/joss-ai-delivery-engine-showcase) | Keeps multi-project AI work aligned with persistent state, gates, budgets, resumability, anti-loop controls and evidence-based acceptance. | Private production build · public architecture |
 | [Weekly Trading Radar](https://github.com/josslignio/weekly-trading-radar-showcase) | Runs an automated social-intelligence pipeline with incremental ingestion, multi-horizon analytics, validation, publishing and daily delivery. | [Live dashboard](https://josslignio.github.io/weekly-trading-radar-dashboard/latest/report.html) |
 | [Daily Job & CV Radar](https://github.com/josslignio/job-opportunity-radar-showcase) | Discovers active opportunities, excludes previous applications, ranks roles and prepares tailored CVs while preserving a canonical design. | Private build · public case study |
 | [P1 Studio](https://www.p1studio.xyz/) | Growth, GTM and ecosystem execution for Web3, fintech and digital products. | 60+ clients |
